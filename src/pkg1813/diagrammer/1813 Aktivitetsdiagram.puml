@@ -1,0 +1,72 @@
+@startuml
+title Aktivitetsdiagram for 1813
+
+|112|
+|Sygeplejerske|
+|Laege|
+|Patient|
+|Akut Behandlingssted|
+
+|Patient|
+start
+:Kontakt 1813;
+:Beskriv problem;
+|Sygeplejerske|
+:Vurder sygdom;
+if (Sygdom akut) then (Ja)
+    :Henvis til 112;
+    |112|
+    :Send ambulance;
+    stop
+    |Sygeplejerske|
+else (nej)
+    if (Henvaendelse kraever laege) then (ja)
+        |Sygeplejerske|
+        while (Behov for vejledning) is (ja) 
+            :Vejled patienten;
+            :Skriv journalnotat;
+        endwhile (nej)        
+    :Afslut patient;
+    else (nej)
+        :Henvis til 1813 laege;
+        |Laege|
+        :Vurder sygdom;
+        fork
+            :Skriv journalnotat;
+        fork again
+            :Udskriv recept;
+        fork again
+            :Vejled patienten;
+        end fork
+        if (Kan patient afsluttet) then (ja)
+            :Afslut patient;
+        else (nej)
+            :Henvis til aktut behandling;
+            |Patient|
+                :Mød op til akut behandling;
+            |Akut Behandlingssted|
+            :Vurder sygdom;
+            fork
+                :Undersøg patienten;
+            fork again
+                :Udskriv recept;
+            fork again
+                :Skriv journalnotat;
+            end fork
+            if (Kan patient afsluttet) then (ja)
+                :Afslut patient;
+            else (nej)
+                :Indlaeg patient;
+                :Overfoer patientforloeb;
+                stop
+            endif
+
+        endif
+
+    endif
+endif
+
+|Patient|
+:Kontakt afsluttet;
+stop
+@enduml
