@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1263px" preserveAspectRatio="none" style="width:2232px;height:1263px;" version="1.1" viewBox="0 0 2232 1263" width="2232px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="f1r26d9khotshc" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g>
+        <text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacingAndGlyphs" textLength="206" x="1017.9375" y="28.6855">Aktivitetsdiagram for 1813</text>
+        <text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacingAndGlyphs" textLength="30" x="61.5" y="53.7813">112</text>
+        <line style="stroke: #000000; stroke-width: 2.0;" x1="10" x2="10" y1="35.0957" y2="1256.9551"/>
+        <rect fill="#FEFECE" filter="url(#f1r26d9khotshc)" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="114" x="20" y="377.1113"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="94" x="30" y="399.5684">Send ambulance</text>
+        <ellipse cx="77" cy="457.2051" fill="none" filter="url(#f1r26d9khotshc)" rx="10" ry="10" style="stroke: #000000; stroke-width: 1.0;"/>
+        <ellipse cx="77.5" cy="457.7051" fill="#000000" filter="url(#f1r26d9khotshc)" rx="6" ry="6" style="stroke: none; stroke-width: 1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacingAndGlyphs" textLength="113" x="387.25" y="53.7813">Sygeplejerske</text>
+        <line style="stroke: #000000; stroke-width: 2.0;" x1="143" x2="143" y1="35.0957" y2="1256.9551"/>
+        <rect fill="#FEFECE" filter="url(#f1r26d9khotshc)" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="103" x="308.625" y="207.9238"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="83" x="318.625" y="230.3809">Vurder sygdom</text>
+        <polygon fill="#FEFECE" filter="url(#f1r26d9khotshc)" points="329.125,263.0176,391.125,263.0176,403.125,275.0176,391.125,287.0176,329.125,287.0176,317.125,275.0176,329.125,263.0176" style="stroke: #A80036; stroke-width: 1.5;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="62" x="329.125" y="279.5186">Sygdom akut</text>
+        <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="11" x="306.125" y="272.6006">Ja</text>
+        <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="14" x="403.125" y="272.6006">nej</text>
+        <rect fill="#FEFECE" filter="url(#f1r26d9khotshc)" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="94" x="153" y="307.0176"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="74" x="163" y="329.4746">Henvis til 112</text>
+        <polygon fill="#FEFECE" filter="url(#f1r26d9khotshc)" points="451.25,307.0176,589.25,307.0176,601.25,319.0176,589.25,331.0176,451.25,331.0176,439.25,319.0176,451.25,307.0176" style="stroke: #A80036; stroke-width: 1.5;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="138" x="451.25" y="323.5186">Henvaendelse kraever laege</text>
+        <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="8" x="431.25" y="316.6006">ja</text>
+        <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="14" x="601.25" y="316.6006">nej</text>
+        <rect fill="#FEFECE" filter="url(#f1r26d9khotshc)" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="108" x="318.5" y="412.8535"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="88" x="328.5" y="435.3105">Vejled patienten</text>
+        <rect fill="#FEFECE" filter="url(#f1r26d9khotshc)" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="114" x="315.5" y="482.9473"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="94" x="325.5" y="505.4043">Skriv journalnotat</text>
+        <polygon fill="#FEFECE" filter="url(#f1r26d9khotshc)" points="323,351.0176,422,351.0176,434,363.0176,422,375.0176,323,375.0176,311,363.0176,323,351.0176" style="stroke: #A80036; stroke-width: 1.5;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="8" x="376.5" y="386.4365">ja</text>
+        <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="99" x="323" y="367.5186">Behov for vejledning</text>
+        <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="14" x="297" y="360.6006">nej</text>
+        <rect fill="#FEFECE" filter="url(#f1r26d9khotshc)" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="90" x="327.5" y="577.041"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="70" x="337.5" y="599.498">Afslut patient</text>
+        <rect fill="#FEFECE" filter="url(#f1r26d9khotshc)" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="135" x="600.5" y="351.0176"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="115" x="610.5" y="373.4746">Henvis til 1813 laege</text>
+        <polygon fill="#FEFECE" filter="url(#f1r26d9khotshc)" points="520.25,1137.8613,532.25,1149.8613,520.25,1161.8613,508.25,1149.8613,520.25,1137.8613" style="stroke: #A80036; stroke-width: 1.5;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacingAndGlyphs" textLength="50" x="940.375" y="53.7813">Laege</text>
+        <line style="stroke: #000000; stroke-width: 2.0;" x1="744.5" x2="744.5" y1="35.0957" y2="1256.9551"/>
+        <rect fill="#FEFECE" filter="url(#f1r26d9khotshc)" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="103" x="905" y="421.1113"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="83" x="915" y="443.5684">Vurder sygdom</text>
+        <rect fill="#000000" filter="url(#f1r26d9khotshc)" height="6" rx="2.5" ry="2.5" style="stroke: #000000; stroke-width: 1.0;" width="404" x="754.5" y="491.2051"/>
+        <rect fill="#FEFECE" filter="url(#f1r26d9khotshc)" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="114" x="768.5" y="517.2051"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="94" x="778.5" y="539.6621">Skriv journalnotat</text>
+        <rect fill="#FEFECE" filter="url(#f1r26d9khotshc)" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="98" x="910.5" y="517.2051"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="78" x="920.5" y="539.6621">Udskriv recept</text>
+        <rect fill="#FEFECE" filter="url(#f1r26d9khotshc)" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="108" x="1036.5" y="517.2051"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="88" x="1046.5" y="539.6621">Vejled patienten</text>
+        <rect fill="#000000" filter="url(#f1r26d9khotshc)" height="6" rx="2.5" ry="2.5" style="stroke: #000000; stroke-width: 1.0;" width="404" x="754.5" y="572.2988"/>
+        <polygon fill="#FEFECE" filter="url(#f1r26d9khotshc)" points="908.5,613.2988,1004.5,613.2988,1016.5,625.2988,1004.5,637.2988,908.5,637.2988,896.5,625.2988,908.5,613.2988" style="stroke: #A80036; stroke-width: 1.5;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="96" x="908.5" y="629.7998">Kan patient afsluttet</text>
+        <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="8" x="888.5" y="622.8818">ja</text>
+        <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="14" x="1016.5" y="622.8818">nej</text>
+        <rect fill="#FEFECE" filter="url(#f1r26d9khotshc)" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="90" x="772.75" y="657.2988"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="70" x="782.75" y="679.7559">Afslut patient</text>
+        <rect fill="#FEFECE" filter="url(#f1r26d9khotshc)" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="164" x="1013.25" y="657.2988"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="144" x="1023.25" y="679.7559">Henvis til aktut behandling</text>
+        <polygon fill="#FEFECE" filter="url(#f1r26d9khotshc)" points="956.5,1103.8613,968.5,1115.8613,956.5,1127.8613,944.5,1115.8613,956.5,1103.8613" style="stroke: #A80036; stroke-width: 1.5;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacingAndGlyphs" textLength="56" x="1459.0625" y="53.7813">Patient</text>
+        <line style="stroke: #000000; stroke-width: 2.0;" x1="1186.25" x2="1186.25" y1="35.0957" y2="1256.9551"/>
+        <ellipse cx="1250.75" cy="67.7363" fill="#000000" filter="url(#f1r26d9khotshc)" rx="10" ry="10" style="stroke: none; stroke-width: 1.0;"/>
+        <rect fill="#FEFECE" filter="url(#f1r26d9khotshc)" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="92" x="1204.75" y="97.7363"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="72" x="1214.75" y="120.1934">Kontakt 1813</text>
+        <rect fill="#FEFECE" filter="url(#f1r26d9khotshc)" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="109" x="1196.25" y="152.8301"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="89" x="1206.25" y="175.2871">Beskriv problem</text>
+        <rect fill="#FEFECE" filter="url(#f1r26d9khotshc)" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="163" x="1615.875" y="712.3926"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="143" x="1625.875" y="734.8496">Mød op til akut behandling</text>
+        <rect fill="#FEFECE" filter="url(#f1r26d9khotshc)" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="107" x="1197.25" y="1181.8613"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="87" x="1207.25" y="1204.3184">Kontakt afsluttet</text>
+        <ellipse cx="1250.75" cy="1246.9551" fill="none" filter="url(#f1r26d9khotshc)" rx="10" ry="10" style="stroke: #000000; stroke-width: 1.0;"/>
+        <ellipse cx="1251.25" cy="1247.4551" fill="#000000" filter="url(#f1r26d9khotshc)" rx="6" ry="6" style="stroke: none; stroke-width: 1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacingAndGlyphs" textLength="173" x="1923.375" y="53.7813">Akut Behandlingssted</text>
+        <line style="stroke: #000000; stroke-width: 2.0;" x1="1787.875" x2="1787.875" y1="35.0957" y2="1256.9551"/>
+        <rect fill="#FEFECE" filter="url(#f1r26d9khotshc)" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="103" x="1958.875" y="767.4863"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="83" x="1968.875" y="789.9434">Vurder sygdom</text>
+        <rect fill="#000000" filter="url(#f1r26d9khotshc)" height="6" rx="2.5" ry="2.5" style="stroke: #000000; stroke-width: 1.0;" width="425" x="1797.875" y="822.5801"/>
+        <rect fill="#FEFECE" filter="url(#f1r26d9khotshc)" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="129" x="1811.875" y="848.5801"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="109" x="1821.875" y="871.0371">Undersøg patienten</text>
+        <rect fill="#FEFECE" filter="url(#f1r26d9khotshc)" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="98" x="1968.875" y="848.5801"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="78" x="1978.875" y="871.0371">Udskriv recept</text>
+        <rect fill="#FEFECE" filter="url(#f1r26d9khotshc)" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="114" x="2094.875" y="848.5801"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="94" x="2104.875" y="871.0371">Skriv journalnotat</text>
+        <rect fill="#000000" filter="url(#f1r26d9khotshc)" height="6" rx="2.5" ry="2.5" style="stroke: #000000; stroke-width: 1.0;" width="425" x="1797.875" y="903.6738"/>
+        <polygon fill="#FEFECE" filter="url(#f1r26d9khotshc)" points="1962.375,929.6738,2058.375,929.6738,2070.375,941.6738,2058.375,953.6738,1962.375,953.6738,1950.375,941.6738,1962.375,929.6738" style="stroke: #A80036; stroke-width: 1.5;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="96" x="1962.375" y="946.1748">Kan patient afsluttet</text>
+        <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="8" x="1942.375" y="939.2568">ja</text>
+        <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="14" x="2070.375" y="939.2568">nej</text>
+        <rect fill="#FEFECE" filter="url(#f1r26d9khotshc)" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="90" x="1895.375" y="963.6738"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="70" x="1905.375" y="986.1309">Afslut patient</text>
+        <rect fill="#FEFECE" filter="url(#f1r26d9khotshc)" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="101" x="2029.875" y="963.6738"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="81" x="2039.875" y="986.1309">Indlaeg patient</text>
+        <rect fill="#FEFECE" filter="url(#f1r26d9khotshc)" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="144" x="2008.375" y="1018.7676"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="124" x="2018.375" y="1041.2246">Overfoer patientforloeb</text>
+        <ellipse cx="2080.375" cy="1083.8613" fill="none" filter="url(#f1r26d9khotshc)" rx="10" ry="10" style="stroke: #000000; stroke-width: 1.0;"/>
+        <ellipse cx="2080.875" cy="1084.3613" fill="#000000" filter="url(#f1r26d9khotshc)" rx="6" ry="6" style="stroke: none; stroke-width: 1.0;"/>
+        <line style="stroke: #000000; stroke-width: 2.0;" x1="2231.875" x2="2231.875" y1="35.0957" y2="1256.9551"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="77" x2="77" y1="412.2051" y2="447.2051"/>
+        <polygon fill="#A80036" points="73,437.2051,77,447.2051,81,437.2051,77,441.2051" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="372.5" x2="372.5" y1="447.9473" y2="482.9473"/>
+        <polygon fill="#A80036" points="368.5,472.9473,372.5,482.9473,376.5,472.9473,372.5,476.9473" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="372.5" x2="372.5" y1="375.0176" y2="412.8535"/>
+        <polygon fill="#A80036" points="368.5,402.8535,372.5,412.8535,376.5,402.8535,372.5,406.8535" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="372.5" x2="372.5" y1="518.041" y2="530.041"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="372.5" x2="446" y1="530.041" y2="530.041"/>
+        <polygon fill="#A80036" points="442,456.5293,446,446.5293,450,456.5293,446,452.5293" style="stroke: #A80036; stroke-width: 1.5;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="446" x2="446" y1="363.0176" y2="530.041"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="446" x2="434" y1="363.0176" y2="363.0176"/>
+        <polygon fill="#A80036" points="444,359.0176,434,363.0176,444,367.0176,440,363.0176" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="311" x2="299" y1="363.0176" y2="363.0176"/>
+        <polygon fill="#A80036" points="295,442.5293,299,452.5293,303,442.5293,299,446.5293" style="stroke: #A80036; stroke-width: 1.5;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="299" x2="299" y1="363.0176" y2="542.041"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="299" x2="372.5" y1="542.041" y2="542.041"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="372.5" x2="372.5" y1="542.041" y2="577.041"/>
+        <polygon fill="#A80036" points="368.5,567.041,372.5,577.041,376.5,567.041,372.5,571.041" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="439.25" x2="372.5" y1="319.0176" y2="319.0176"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="372.5" x2="372.5" y1="319.0176" y2="351.0176"/>
+        <polygon fill="#A80036" points="368.5,341.0176,372.5,351.0176,376.5,341.0176,372.5,345.0176" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="601.25" x2="668" y1="319.0176" y2="319.0176"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="668" x2="668" y1="319.0176" y2="351.0176"/>
+        <polygon fill="#A80036" points="664,341.0176,668,351.0176,672,341.0176,668,345.0176" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="372.5" x2="372.5" y1="612.1348" y2="1149.8613"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="372.5" x2="508.25" y1="1149.8613" y2="1149.8613"/>
+        <polygon fill="#A80036" points="498.25,1145.8613,508.25,1149.8613,498.25,1153.8613,502.25,1149.8613" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="317.125" x2="200" y1="275.0176" y2="275.0176"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="200" x2="200" y1="275.0176" y2="307.0176"/>
+        <polygon fill="#A80036" points="196,297.0176,200,307.0176,204,297.0176,200,301.0176" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="403.125" x2="520.25" y1="275.0176" y2="275.0176"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="520.25" x2="520.25" y1="275.0176" y2="307.0176"/>
+        <polygon fill="#A80036" points="516.25,297.0176,520.25,307.0176,524.25,297.0176,520.25,301.0176" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="520.25" x2="520.25" y1="1161.8613" y2="1166.8613"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="520.25" x2="1250.75" y1="1166.8613" y2="1166.8613"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="1250.75" x2="1250.75" y1="1166.8613" y2="1181.8613"/>
+        <polygon fill="#A80036" points="1246.75,1171.8613,1250.75,1181.8613,1254.75,1171.8613,1250.75,1175.8613" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="360.125" x2="360.125" y1="243.0176" y2="263.0176"/>
+        <polygon fill="#A80036" points="356.125,253.0176,360.125,263.0176,364.125,253.0176,360.125,257.0176" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="825.5" x2="825.5" y1="497.2051" y2="517.2051"/>
+        <polygon fill="#A80036" points="821.5,507.2051,825.5,517.2051,829.5,507.2051,825.5,511.2051" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="959.5" x2="959.5" y1="497.2051" y2="517.2051"/>
+        <polygon fill="#A80036" points="955.5,507.2051,959.5,517.2051,963.5,507.2051,959.5,511.2051" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="1090.5" x2="1090.5" y1="497.2051" y2="517.2051"/>
+        <polygon fill="#A80036" points="1086.5,507.2051,1090.5,517.2051,1094.5,507.2051,1090.5,511.2051" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="825.5" x2="825.5" y1="552.2988" y2="572.2988"/>
+        <polygon fill="#A80036" points="821.5,562.2988,825.5,572.2988,829.5,562.2988,825.5,566.2988" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="959.5" x2="959.5" y1="552.2988" y2="572.2988"/>
+        <polygon fill="#A80036" points="955.5,562.2988,959.5,572.2988,963.5,562.2988,959.5,566.2988" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="1090.5" x2="1090.5" y1="552.2988" y2="572.2988"/>
+        <polygon fill="#A80036" points="1086.5,562.2988,1090.5,572.2988,1094.5,562.2988,1090.5,566.2988" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="956.5" x2="956.5" y1="456.2051" y2="491.2051"/>
+        <polygon fill="#A80036" points="952.5,481.2051,956.5,491.2051,960.5,481.2051,956.5,485.2051" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="896.5" x2="817.75" y1="625.2988" y2="625.2988"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="817.75" x2="817.75" y1="625.2988" y2="657.2988"/>
+        <polygon fill="#A80036" points="813.75,647.2988,817.75,657.2988,821.75,647.2988,817.75,651.2988" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="1016.5" x2="1095.25" y1="625.2988" y2="625.2988"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="1095.25" x2="1095.25" y1="625.2988" y2="657.2988"/>
+        <polygon fill="#A80036" points="1091.25,647.2988,1095.25,657.2988,1099.25,647.2988,1095.25,651.2988" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="817.75" x2="817.75" y1="692.3926" y2="1115.8613"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="817.75" x2="944.5" y1="1115.8613" y2="1115.8613"/>
+        <polygon fill="#A80036" points="934.5,1111.8613,944.5,1115.8613,934.5,1119.8613,938.5,1115.8613" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="956.5" x2="956.5" y1="578.2988" y2="613.2988"/>
+        <polygon fill="#A80036" points="952.5,603.2988,956.5,613.2988,960.5,603.2988,956.5,607.2988" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="1250.75" x2="1250.75" y1="77.7363" y2="97.7363"/>
+        <polygon fill="#A80036" points="1246.75,87.7363,1250.75,97.7363,1254.75,87.7363,1250.75,91.7363" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="1250.75" x2="1250.75" y1="132.8301" y2="152.8301"/>
+        <polygon fill="#A80036" points="1246.75,142.8301,1250.75,152.8301,1254.75,142.8301,1250.75,146.8301" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="1250.75" x2="1250.75" y1="1216.9551" y2="1236.9551"/>
+        <polygon fill="#A80036" points="1246.75,1226.9551,1250.75,1236.9551,1254.75,1226.9551,1250.75,1230.9551" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="1876.375" x2="1876.375" y1="828.5801" y2="848.5801"/>
+        <polygon fill="#A80036" points="1872.375,838.5801,1876.375,848.5801,1880.375,838.5801,1876.375,842.5801" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="2017.875" x2="2017.875" y1="828.5801" y2="848.5801"/>
+        <polygon fill="#A80036" points="2013.875,838.5801,2017.875,848.5801,2021.875,838.5801,2017.875,842.5801" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="2151.875" x2="2151.875" y1="828.5801" y2="848.5801"/>
+        <polygon fill="#A80036" points="2147.875,838.5801,2151.875,848.5801,2155.875,838.5801,2151.875,842.5801" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="1876.375" x2="1876.375" y1="883.6738" y2="903.6738"/>
+        <polygon fill="#A80036" points="1872.375,893.6738,1876.375,903.6738,1880.375,893.6738,1876.375,897.6738" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="2017.875" x2="2017.875" y1="883.6738" y2="903.6738"/>
+        <polygon fill="#A80036" points="2013.875,893.6738,2017.875,903.6738,2021.875,893.6738,2017.875,897.6738" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="2151.875" x2="2151.875" y1="883.6738" y2="903.6738"/>
+        <polygon fill="#A80036" points="2147.875,893.6738,2151.875,903.6738,2155.875,893.6738,2151.875,897.6738" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="2010.375" x2="2010.375" y1="802.5801" y2="822.5801"/>
+        <polygon fill="#A80036" points="2006.375,812.5801,2010.375,822.5801,2014.375,812.5801,2010.375,816.5801" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="2080.375" x2="2080.375" y1="998.7676" y2="1018.7676"/>
+        <polygon fill="#A80036" points="2076.375,1008.7676,2080.375,1018.7676,2084.375,1008.7676,2080.375,1012.7676" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="2080.375" x2="2080.375" y1="1053.8613" y2="1073.8613"/>
+        <polygon fill="#A80036" points="2076.375,1063.8613,2080.375,1073.8613,2084.375,1063.8613,2080.375,1067.8613" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="1950.375" x2="1940.375" y1="941.6738" y2="941.6738"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="1940.375" x2="1940.375" y1="941.6738" y2="963.6738"/>
+        <polygon fill="#A80036" points="1936.375,953.6738,1940.375,963.6738,1944.375,953.6738,1940.375,957.6738" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="2070.375" x2="2080.375" y1="941.6738" y2="941.6738"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="2080.375" x2="2080.375" y1="941.6738" y2="963.6738"/>
+        <polygon fill="#A80036" points="2076.375,953.6738,2080.375,963.6738,2084.375,953.6738,2080.375,957.6738" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="1940.375" x2="1940.375" y1="998.7676" y2="1115.8613"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="1940.375" x2="968.5" y1="1115.8613" y2="1115.8613"/>
+        <polygon fill="#A80036" points="978.5,1111.8613,968.5,1115.8613,978.5,1119.8613,974.5,1115.8613" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="2010.375" x2="2010.375" y1="909.6738" y2="929.6738"/>
+        <polygon fill="#A80036" points="2006.375,919.6738,2010.375,929.6738,2014.375,919.6738,2010.375,923.6738" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="1250.75" x2="1250.75" y1="187.9238" y2="192.9238"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="1250.75" x2="360.125" y1="192.9238" y2="192.9238"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="360.125" x2="360.125" y1="192.9238" y2="207.9238"/>
+        <polygon fill="#A80036" points="356.125,197.9238,360.125,207.9238,364.125,197.9238,360.125,201.9238" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="200" x2="200" y1="342.1113" y2="359.6113"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="200" x2="77" y1="359.6113" y2="359.6113"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="77" x2="77" y1="359.6113" y2="377.1113"/>
+        <polygon fill="#A80036" points="73,367.1113,77,377.1113,81,367.1113,77,371.1113" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="668" x2="668" y1="386.1113" y2="403.6113"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="668" x2="956.5" y1="403.6113" y2="403.6113"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="956.5" x2="956.5" y1="403.6113" y2="421.1113"/>
+        <polygon fill="#A80036" points="952.5,411.1113,956.5,421.1113,960.5,411.1113,956.5,415.1113" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="1095.25" x2="1095.25" y1="692.3926" y2="697.3926"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="1095.25" x2="1697.375" y1="697.3926" y2="697.3926"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="1697.375" x2="1697.375" y1="697.3926" y2="712.3926"/>
+        <polygon fill="#A80036" points="1693.375,702.3926,1697.375,712.3926,1701.375,702.3926,1697.375,706.3926" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="1697.375" x2="1697.375" y1="747.4863" y2="752.4863"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="1697.375" x2="2010.375" y1="752.4863" y2="752.4863"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="2010.375" x2="2010.375" y1="752.4863" y2="767.4863"/>
+        <polygon fill="#A80036" points="2006.375,757.4863,2010.375,767.4863,2014.375,757.4863,2010.375,761.4863" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="956.5" x2="956.5" y1="1127.8613" y2="1149.8613"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="956.5" x2="532.25" y1="1149.8613" y2="1149.8613"/>
+        <polygon fill="#A80036" points="542.25,1145.8613,532.25,1149.8613,542.25,1153.8613,538.25,1149.8613" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <!--
+@startuml
+title Aktivitetsdiagram for 1813
+
+|112|
+|Sygeplejerske|
+|Laege|
+|Patient|
+|Akut Behandlingssted|
+
+|Patient|
+start
+:Kontakt 1813;
+:Beskriv problem;
+|Sygeplejerske|
+:Vurder sygdom;
+if (Sygdom akut) then (Ja)
+    :Henvis til 112;
+    |112|
+    :Send ambulance;
+    stop
+    |Sygeplejerske|
+else (nej)
+    if (Henvaendelse kraever laege) then (ja)
+        |Sygeplejerske|
+        while (Behov for vejledning) is (ja) 
+            :Vejled patienten;
+            :Skriv journalnotat;
+        endwhile (nej)        
+    :Afslut patient;
+    else (nej)
+        :Henvis til 1813 laege;
+        |Laege|
+        :Vurder sygdom;
+        fork
+            :Skriv journalnotat;
+        fork again
+            :Udskriv recept;
+        fork again
+            :Vejled patienten;
+        end fork
+        if (Kan patient afsluttet) then (ja)
+            :Afslut patient;
+        else (nej)
+            :Henvis til aktut behandling;
+            |Patient|
+                :Mød op til akut behandling;
+            |Akut Behandlingssted|
+            :Vurder sygdom;
+            fork
+                :Undersøg patienten;
+            fork again
+                :Udskriv recept;
+            fork again
+                :Skriv journalnotat;
+            end fork
+            if (Kan patient afsluttet) then (ja)
+                :Afslut patient;
+            else (nej)
+                :Indlaeg patient;
+                :Overfoer patientforloeb;
+                stop
+            endif
+
+        endif
+
+    endif
+endif
+
+|Patient|
+:Kontakt afsluttet;
+stop
+@enduml
+
+PlantUML version 2017.11(Wed Apr 19 18:18:59 CEST 2017)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_141-b15
+Operating System: Windows 10
+OS Version: 10.0
+Default Encoding: Cp1252
+Language: da
+Country: DK
+-->
+    </g>
+</svg>
